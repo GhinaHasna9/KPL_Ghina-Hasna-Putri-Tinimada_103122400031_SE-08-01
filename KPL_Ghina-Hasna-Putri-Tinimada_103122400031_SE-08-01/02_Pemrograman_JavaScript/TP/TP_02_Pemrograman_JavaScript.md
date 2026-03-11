@@ -1,7 +1,9 @@
 # Tugas Pendahuluan 02: Pemrograman JavaScript
 
 **Nama:** Ghina Hasna Putri Tinimada
+
 **NIM:** 103122400031
+
 **Kelas:** SE-08-01
 
 ## Soal
@@ -20,5 +22,6 @@ Hal ini menyebabkan hasil kedua kode berbeda. Pada kode pertama, karena angka 0 
 ![gambar](image.png)
 
 ## Deskripsi programm
+
 
 Program tersebut merupakan fungsi JavaScript bernama mulOfArray yang digunakan untuk menghitung hasil perkalian dari elemen-elemen dalam sebuah array. Program melakukan perulangan untuk mengambil setiap nilai pada array lalu mengalikannya ke variabel hasil.
