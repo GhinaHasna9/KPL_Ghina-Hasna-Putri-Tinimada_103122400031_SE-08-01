@@ -21,9 +21,9 @@ Di tugas ini aku bikin halaman web sederhana buat mengubah gaya teks pakai HTML,
 ---
 
 ## Kode Sumber
- [ini codenya](index.html)
- [ini codenya](style.css)
- [ini codenya](script.js)
+ [index.html](index.html)
+ [style.css](style.css)
+ [script.js](script.js)
 
 ## Output:
 
@@ -32,5 +32,6 @@ Di tugas ini aku bikin halaman web sederhana buat mengubah gaya teks pakai HTML,
 --- 
 
 ## Deskripsi Program
+
 
 Program ini berfungsi untuk mengubah gaya teks yang dimasukkan oleh pengguna. Teks dapat diubah menjadi huruf besar, huruf kecil, atau format paragraf menggunakan tombol yang tersedia. Program juga menampilkan informasi jumlah huruf, huruf besar, dan huruf kecil secara otomatis saat pengguna mengetik.
