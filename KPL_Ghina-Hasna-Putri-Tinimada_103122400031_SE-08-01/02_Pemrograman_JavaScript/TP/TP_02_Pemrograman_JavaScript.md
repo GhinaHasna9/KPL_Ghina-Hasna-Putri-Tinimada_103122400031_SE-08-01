@@ -11,7 +11,7 @@
 Kamu sudah menulis fungsi mulOfArray. Ujilah dengan input [2, 0, 26, 28, -2], dengan output yang seharusnya adalah 1456. Jika kamu menemukan bahwa hasilnya berbeda, bisakah kamu memperbaikinya? Jika kamu menemukan bahwa hasilnya sama, bisakah kamu menjelaskan mengapa demikian?
 
 ## kode Sumber
-[test.js](test.js)
+[index.js](index.js)
 
 ## Jawaban 
 
@@ -28,4 +28,5 @@ Hal ini menyebabkan hasil kedua kode berbeda. Pada kode pertama, karena angka 0 
 
 
 Program tersebut merupakan fungsi JavaScript bernama mulOfArray yang digunakan untuk menghitung hasil perkalian dari elemen-elemen dalam sebuah array. Program melakukan perulangan untuk mengambil setiap nilai pada array lalu mengalikannya ke variabel hasil.
+
 
