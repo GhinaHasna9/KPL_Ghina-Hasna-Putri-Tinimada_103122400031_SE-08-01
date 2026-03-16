@@ -1,0 +1,49 @@
+body{
+font-family: Arial, sans-serif;
+margin:40px;
+background:#f3f4f6;
+}
+
+textarea{
+width:60%;
+height:100px;
+padding:10px;
+margin-top:10px;
+border-radius:5px;
+border:1px solid #ccc;
+}
+
+.button-area{
+margin-top:10px;
+}
+
+button{
+padding:8px 14px;
+margin-right:6px;
+cursor:pointer;
+background:#29ddcc;
+border:none;
+border-radius:4px;
+}
+
+button:hover{
+opacity:0.9;
+}
+
+/* MODE GELAP */
+
+.dark-mode body{
+background:#121826;
+color:white;
+}
+
+.dark-mode textarea{
+background:#2e3443;
+color:white;
+border:none;
+}
+
+.dark-mode button{
+background:#29ddcc;
+border:none;
+}
