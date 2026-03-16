@@ -1,0 +1,38 @@
+body{
+font-family: Arial, sans-serif;
+margin:40px;
+background-color:#f2f4f7;   
+}
+
+h2{
+color:#333;
+}
+
+textarea{
+width:60%;
+height:80px;
+padding:8px;
+margin-top:10px;
+border:1px solid #ccc;
+border-radius:5px;
+background-color:#ffffff;   
+}
+
+button{
+padding:8px 12px;
+margin-top:10px;
+margin-right:5px;
+cursor:pointer;
+border:none;
+border-radius:4px;
+background-color:#4CAF50;
+color:white;
+}
+
+button:hover{
+background-color:#43a047;
+}
+
+p{
+margin-top:15px;
+}
