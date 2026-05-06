@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, sans-serif;
+    transition: all 0.3s ease;
+}
+
+/* container */
+.container{
+    width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* textarea tetap putih */
+textarea{
+    width: 100%;
+    height: 150px;
+    background: white;
+    color: black;
+    padding: 10px;
+}
+
+/* tombol */
+button{
+    margin-top: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+/* LIGHT MODE */
+.light-mode{
+    background: #ffffff;
+    color: #000000;
+}
+
+/* DARK MODE */
+.dark-mode{
+    background: #1e1e1e;
+    color: white;
+}
+
+/* SEPIA MODE */
+.sepia-mode{
+    background: #F4ECD8;
+    color: #5B4636;
+}
