@@ -1,8 +1,8 @@
 # Tugas Mandiri 07 :  	07_Grammar-Based_Input_Processing_Parsing  
 
-  **Nama** : Ghina Hasna Putri Tinimada
-  **NIM** : 103122400031
-  **Kelas** : SE-08-01  
+  **Nama:** Ghina Hasna Putri Tinimada  
+**NIM:** 103122400031
+**Kelas:** SE-08-01  
 
 ## Tugas
 
