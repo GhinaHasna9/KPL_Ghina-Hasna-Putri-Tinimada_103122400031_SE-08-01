@@ -2,7 +2,9 @@
 ## Fungsi toNumberArray (JavaScript)
 
 **Nama:** Ghina Hasna Putri Tinimada
+
 **NIM:** 103122400031
+
 **Kelas:** SE-08-01  
 
 ---
